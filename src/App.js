@@ -12,7 +12,7 @@ export class App extends Component {
     return (
       <div>
         <Navbar />
-        <h1>This is my first class based component {this.name} .</h1>
+        {/* <h1>This is my first class based component {this.name} .</h1> */}
         <News />
       </div>
     )
