@@ -1,12 +1,19 @@
 import './App.css';
 
 import React, { Component } from 'react'
+import Navbar from './components/Navbar';
+import News from './components/News';
 
 export class App extends Component {
-  render() {
+
+  name = "hardik";   // keywords are not required while instantiating variables inside class here.
+
+  render() {        // render is a life cycle method
     return (
       <div>
-        <h1>This is my first class based component.</h1>
+        <Navbar />
+        <h1>This is my first class based component {this.name} .</h1>
+        <News />
       </div>
     )
   }
