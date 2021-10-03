@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import NewItem from "./NewItem";
+import Spinner from "./Spinner";
 
 export class News extends Component {
   static propTypes = {};
@@ -21,14 +22,15 @@ export class News extends Component {
     // console.log("i am Component did mount method");  // run after render method is completed, state is set here.
     let url =
       `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-    let data = await fetch(url); // returns a promise
+    this.setState({loading: true});
+      let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
     // console.log(parsedData);
 
     this.setState({
       articles: parsedData.articles,
-      loading: this.state.loading, // todo
-      page: this.state.page,
+      loading: false, // todo
+      // page: this.state.page,
       totalResults: parsedData.totalResults,
     });
     // console.log(this.state.page);
@@ -40,15 +42,16 @@ export class News extends Component {
     let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${
       this.state.page - 1
     }&pageSize=${this.props.pageSize}`;
+    this.setState({loading: true});
     let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
     // console.log(parsedData);
 
     this.setState({
       articles: parsedData.articles,
-      loading: this.state.loading,
+      loading: false,
       page: this.state.page - 1,
-      totalResults: parsedData.totalResults,
+      // totalResults: parsedData.totalResults,
     });
   };
 
@@ -63,15 +66,16 @@ export class News extends Component {
     let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${
       this.state.page + 1
     }&pageSize=${this.props.pageSize}`;
+    this.setState({loading: true});
     let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
     // console.log(parsedData);
 
     this.setState({
       articles: parsedData.articles,
-      loading: this.state.loading,
+      loading: false,
       page: this.state.page + 1,
-      totalResults: parsedData.totalResults,
+      // totalResults: parsedData.totalResults,
     });
     // console.log(this.state.page);
     // Checking if next page will be empty or not so as to disable next button.
@@ -86,8 +90,9 @@ export class News extends Component {
     return (
       <div className="container my-3">
         <h1 className="my-3 text-center">NewsMonkey - Top Headlines</h1>
+        {this.state.loading && <Spinner />}
         <div className="row">
-          {this.state.articles.map((article) => {
+          {!this.state.loading && this.state.articles.map((article) => {
             return (
               <div className="col-md-3" key={article.url}>
                 {" "}
