@@ -13,7 +13,7 @@ export class App extends Component {
       <div>
         <Navbar />
         {/* <h1>This is my first class based component {this.name} .</h1> */}
-        <News />
+        <News pageSize="8"/>
       </div>
     )
   }

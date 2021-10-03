@@ -12,6 +12,7 @@ export class News extends Component {
       articles: [],
       loading: false,
       page: 1,
+      totalResults: 0,
     };
   }
 
@@ -19,30 +20,72 @@ export class News extends Component {
   async componentDidMount() {
     // console.log("i am Component did mount method");  // run after render method is completed, state is set here.
     let url =
-      "https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=" +
-      this.state.page;
+      `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
-    console.log(parsedData);
+    // console.log(parsedData);
+
     this.setState({
       articles: parsedData.articles,
-      loading: true,
+      loading: this.state.loading, // todo
+      page: this.state.page,
+      totalResults: parsedData.totalResults,
     });
+    // console.log(this.state.page);
   }
 
-  handlePrevClick() {
-    this.setState();
-  }
+  handlePrevClick = async () => {
+    // console.log("next is clicked");
+    // document.getElementById("next-button").classList.remove("disabled");
+    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${
+      this.state.page - 1
+    }&pageSize=${this.props.pageSize}`;
+    let data = await fetch(url); // returns a promise
+    let parsedData = await data.json();
+    // console.log(parsedData);
 
-  handleNextClick() {
-    console.log("next is clicked");
-  }
+    this.setState({
+      articles: parsedData.articles,
+      loading: this.state.loading,
+      page: this.state.page - 1,
+      totalResults: parsedData.totalResults,
+    });
+  };
+
+  handleNextClick = async () => {
+    // console.log("next is clicked");
+    // if ((this.state.page + 1) > Math.ceil(this.state.totalResults / 20)){
+    //   if (!document.getElementById("next-button").classList.contains("disabled")){
+    //     document.getElementById("next-button").classList.add("disabled");
+    //   }
+    // }else{
+    // document.getElementById("next-button").classList.remove("disabled");
+    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${
+      this.state.page + 1
+    }&pageSize=${this.props.pageSize}`;
+    let data = await fetch(url); // returns a promise
+    let parsedData = await data.json();
+    // console.log(parsedData);
+
+    this.setState({
+      articles: parsedData.articles,
+      loading: this.state.loading,
+      page: this.state.page + 1,
+      totalResults: parsedData.totalResults,
+    });
+    // console.log(this.state.page);
+    // Checking if next page will be empty or not so as to disable next button.
+    // if (this.state.page + 1 > Math.ceil(this.state.totalResults / 20)) {
+    //   document.getElementById("next-button").classList.add("disabled");
+    // }
+    // }
+  };
 
   render() {
     // console.log("i am render method");           // rendered after constructor.
     return (
       <div className="container my-3">
-        <h1 className="my-3">NewsMonkey - Top Headlines</h1>
+        <h1 className="my-3 text-center">NewsMonkey - Top Headlines</h1>
         <div className="row">
           {this.state.articles.map((article) => {
             return (
@@ -64,14 +107,16 @@ export class News extends Component {
         <div className="container d-flex justify-content-between">
           <button
             type="button"
-            disabled={this.state.page<=1}
+            disabled={this.state.page <= 1}
             className="btn btn-dark"
             onClick={this.handlePrevClick}
           >
             &larr; Previous
           </button>
           <button
+            id="next-button"
             type="button"
+            disabled={this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize)}
             className="btn btn-dark"
             onClick={this.handleNextClick}
           >
