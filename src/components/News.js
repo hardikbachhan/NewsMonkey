@@ -4,7 +4,16 @@ import NewItem from "./NewItem";
 import Spinner from "./Spinner";
 
 export class News extends Component {
-  static propTypes = {};
+  static propTypes = {
+    pageSize: PropTypes.string.isRequired,
+    category: PropTypes.string.isRequired,
+    country: PropTypes.string.isRequired,
+  };
+  static defaultProps = {
+    pageSize: "6",
+    category: "general",
+    country: "in",
+  };
 
   constructor() {
     super();
@@ -20,12 +29,11 @@ export class News extends Component {
   // an async function waits for a promise to get resolved, that's why async and await are used.
   async componentDidMount() {
     // console.log("i am Component did mount method");  // run after render method is completed, state is set here.
-    let url =
-      `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-    this.setState({loading: true});
-      let data = await fetch(url); // returns a promise
+    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=${this.props.category}&country=${this.props.country}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    this.setState({ loading: true });
+    let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
-    // console.log(parsedData);
+    console.log(parsedData);
 
     this.setState({
       articles: parsedData.articles,
@@ -39,10 +47,12 @@ export class News extends Component {
   handlePrevClick = async () => {
     // console.log("next is clicked");
     // document.getElementById("next-button").classList.remove("disabled");
-    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${
-      this.state.page - 1
-    }&pageSize=${this.props.pageSize}`;
-    this.setState({loading: true});
+    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=${
+      this.props.category
+    }&country=${this.props.country}&page=${this.state.page - 1}&pageSize=${
+      this.props.pageSize
+    }`;
+    this.setState({ loading: true });
     let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
     // console.log(parsedData);
@@ -63,10 +73,12 @@ export class News extends Component {
     //   }
     // }else{
     // document.getElementById("next-button").classList.remove("disabled");
-    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=general&country=in&page=${
-      this.state.page + 1
-    }&pageSize=${this.props.pageSize}`;
-    this.setState({loading: true});
+    let url = `https://newsapi.org/v2/top-headlines?apiKey=bfe19d94037740b589a51d14fdb90001&category=${
+      this.props.category
+    }&country=${this.props.country}&page=${this.state.page + 1}&pageSize=${
+      this.props.pageSize
+    }`;
+    this.setState({ loading: true });
     let data = await fetch(url); // returns a promise
     let parsedData = await data.json();
     // console.log(parsedData);
@@ -89,25 +101,30 @@ export class News extends Component {
     // console.log("i am render method");           // rendered after constructor.
     return (
       <div className="container my-3">
-        <h1 className="my-3 text-center">NewsMonkey - Top Headlines</h1>
+        <h1 className="my-5 text-center">NewsMonkey - Top Headlines</h1>
         {this.state.loading && <Spinner />}
         <div className="row">
-          {!this.state.loading && this.state.articles.map((article) => {
-            return (
-              <div className="col-md-3" key={article.url}>
-                {" "}
-                {/** Key is added to element which is to be returned. */}
-                <NewItem
-                  title={!article.title ? "" : article.title.slice(0, 45)}
-                  description={
-                    !article.description ? "" : article.description.slice(0, 88)
-                  }
-                  imageUrl={article.urlToImage}
-                  newsUrl={article.url}
-                />
-              </div>
-            );
-          })}
+          {!this.state.loading &&
+            this.state.articles.map((article) => {
+              return (
+                <div className="col-md-4" key={article.url}>
+                  {" "}
+                  {/** Key is added to element which is to be returned. */}
+                  <NewItem
+                    title={!article.title ? "" : article.title} //.slice(0, 45)}
+                    description={
+                      !article.description ? "" : article.description
+                    } //.slice(0, 88)
+                    imageUrl={
+                      article.urlToImage
+                        ? article.urlToImage
+                        : "https://static.toiimg.com/photo/86712611.cms"
+                    }
+                    newsUrl={article.url}
+                  />
+                </div>
+              );
+            })}
         </div>
         <div className="container d-flex justify-content-between">
           <button
@@ -121,7 +138,10 @@ export class News extends Component {
           <button
             id="next-button"
             type="button"
-            disabled={this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize)}
+            disabled={
+              this.state.page + 1 >
+              Math.ceil(this.state.totalResults / this.props.pageSize)
+            }
             className="btn btn-dark"
             onClick={this.handleNextClick}
           >
