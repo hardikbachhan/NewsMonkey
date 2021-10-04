@@ -126,6 +126,7 @@ export class News extends Component {
               );
             })}
         </div>
+        {!this.state.loading && 
         <div className="container d-flex justify-content-between">
           <button
             type="button"
@@ -148,6 +149,7 @@ export class News extends Component {
             Next &rarr;
           </button>
         </div>
+      }
       </div>
     );
   }
