@@ -9,6 +9,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 export class App extends Component {
   // name = "hardik"; // keywords are not required while instantiating variables inside class here.
+  apiKey = process.env.REACT_APP_NEWS_API;
   
   constructor(){
     super();
