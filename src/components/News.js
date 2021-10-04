@@ -121,6 +121,9 @@ export class News extends Component {
                         : "https://static.toiimg.com/photo/86712611.cms"
                     }
                     newsUrl={article.url}
+                    author={article.author?article.author:"Unknown"}
+                    publishedDate={article.publishedAt}
+                    source={article.source.name}
                   />
                 </div>
               );
