@@ -21,11 +21,6 @@ export class NewItem extends Component {
     source: "",
   };
 
-  //   constructor(){
-  //       super();       // called in order to add contents in constructor of Component class.
-  //       console.log("i am the constructor in news item.");    // constructor here will run equal to news item times.
-  //   }
-
   render() {
     let {
       title,
@@ -73,8 +68,6 @@ export class NewItem extends Component {
               target="_blank"
               className="btn btn-sm btn-dark"
             >
-              {" "}
-              {/** _blank opens link in new tab. */}
               Read more...
             </a>
           </div>

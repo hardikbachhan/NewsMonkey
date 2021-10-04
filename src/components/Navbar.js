@@ -1,11 +1,7 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
 export class Navbar extends Component {
-  static propTypes = {};
-  static defaultProps = {};
-
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
