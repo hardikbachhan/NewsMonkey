@@ -41,7 +41,7 @@ export class NewItem extends Component {
       <div className="my-3">
         <div className="card">
           <span
-            class="position-absolute top-0 translate-middle badge rounded-pill bg-dark"
+            className="position-absolute top-0 translate-middle badge rounded-pill bg-dark"
             style={{ left: "90%", zIndex: "1" }}
           >
             {source}

@@ -1,175 +1,786 @@
 {
     "status": "ok",
-    "totalResults": 13,
+    "totalResults": 60,
     "articles": [
         {
             "source": {
-                "id": "lequipe",
-                "name": "L'equipe"
+                "id": "the-next-web",
+                "name": "The Next Web"
             },
-            "author": "L'EQUIPE",
-            "title": "La ligue féminine nord-américaine de football (NWSL) se sépare de sa directrice, Lisa Baird, après la révél...",
-            "description": "Les allégations d'inconduite sexuelle visant l'entraîneur d'une équipe de la Ligue féminine nord-américaine de football ont entraîné vendredi la démission de sa directrice, Lisa Baird. La FIFA ouvre également une enquête.",
-            "url": "https://www.lequipe.fr/Football/Actualites/La-ligue-feminine-nord-americaine-de-football-nwsl-se-separe-de-sa-directrice-lisa-baird-apres-la-revelation-d-un-scandale-sexuel/1289508",
-            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/lisa-baird-ici-aux-jeux-de-sotchi-en-2014-quand-elle-etait-en-charge-du-marketing-du-comite-olympi/1500000001550417/0:0,1995:1330-640-427-75/c8818.jpg",
-            "publishedAt": "2021-10-02T08:15:00+00:00",
-            "content": "Au coeur d'un scandale sexuel, la ligue féminine nord-américaine de foot (NWSL) a accepté la démission de sa directrice, Lisa Baird, à qui elle reproche son inaction, tandis que la FIFA lance une enq… [+1162 chars]"
+            "author": "Ioanna Lykiardopoulou",
+            "title": "5 Midwest states join forces to boost electrification",
+            "description": "The governors of Illinois, Indiana, Michigan, Minnesota, and Wisconsin are joining forces with a new bipartisan plan to accelerate vehicle electrification in the in the US region.  The plan is called REV Midwest, or Regional Electric Vehicle Midwest Coalition…",
+            "url": "https://thenextweb.com/news/5-midwest-states-join-forces-boost-electrification-rev-midwest-agreement",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16.jpg&signature=d7c3ce05857145c42b6c9479f33b526f",
+            "publishedAt": "2021-10-04T11:30:16Z",
+            "content": "The governors of Illinois, Indiana, Michigan, Minnesota, and Wisconsin are joining forces with a new bipartisan plan to accelerate vehicle electrification in the in the US region. \r\nThe plan is calle… [+2414 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Steve Dent",
+            "title": "Facebook whistleblower reveals identity, says company 'chooses profits over safety'",
+            "description": "Internal documents published by the Wall Street Journal (WSJ) recently revealed that Facebook allowed VIPs to break its rules and that it was aware of how...",
+            "url": "https://techcrunch.com/2021/10/04/facebook-whistleblower-reveals-identity-says-company-chooses-profits-over-safety/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/HfOkjL0vRl8zMGv33PTyNQ--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/1283c2e0b73ab126bfd322eb5bb58cc8",
+            "publishedAt": "2021-10-04T11:14:03Z",
+            "content": "Internal documents published by the Wall Street Journal (WSJ) recently revealed that Facebook allowed VIPs to break its rules and that it was aware of how Instagram affected the mental health of teen… [+4107 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Steve Dent",
+            "title": "Facebook whistleblower reveals identity, says company 'chooses profits over safety'",
+            "description": "The whistleblower who brought information about Facebook's awareness of Instagram's impact on teens has revealed herself as Frances Haugen in an interview with 60 Minutes.",
+            "url": "http://techcrunch.com/2021/10/04/facebook-whistleblower-reveals-identity-says-company-chooses-profits-over-safety/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/FA0S2YLWEAQ5Y2T.jpeg?w=640",
+            "publishedAt": "2021-10-04T11:14:03Z",
+            "content": "More posts by this contributor\r\nInternal documents published by the Wall Street Journal (WSJ) recently revealed that Facebook allowed VIPs to break its rules and that it was aware of how Instagram af… [+4096 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "The Station: Inside the Rivian R1T and its IPO filing",
+            "description": "Welp, it was an EV heavy week, starting with the Polestar SPAC and ending with the Rivian IPO filing (curses to the late Friday regulatory filing).  There...",
+            "url": "https://techcrunch.com/2021/10/04/the-station-inside-the-rivian-r1t-and-its-ipo-filing/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TBh91ewiRV23gBZd8nIDlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/MmxluMe0tEioGSqLRVX5Lw--~B/aD0xMTI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/b32a6cbf75e7fb6204ea750830c761db",
+            "publishedAt": "2021-10-04T11:00:53Z",
+            "content": "Hello readers: Welcome to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.\r\nWelp, it was an EV heavy week, starting with the… [+20926 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "The Station: Inside the Rivian R1T and its IPO filing",
+            "description": "Welp, it was an EV heavy week, starting with the Polestar SPAC and ending with the Rivian IPO filing (curses to the late Friday regulatory filing).  There...",
+            "url": "https://techcrunch.com/2021/10/04/the-station-inside-the-rivian-r1t-and-its-ipo-filing/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TBh91ewiRV23gBZd8nIDlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/MmxluMe0tEioGSqLRVX5Lw--~B/aD0xMTI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/b32a6cbf75e7fb6204ea750830c761db",
+            "publishedAt": "2021-10-04T11:00:53Z",
+            "content": "Hello readers: Welcome to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.\r\nWelp, it was an EV heavy week, starting with the… [+20926 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Emily DSilva",
+            "title": "3 ways to build customer loyalty in 2021",
+            "description": "The ecommerce industry has been growing steadily for many years, but since the pandemic, the quantity of online shopping options has exploded. With brick-and-mortar stores around the world having to close their doors, and many people only able to shop from ho…",
+            "url": "https://thenextweb.com/news/3-ways-build-customer-loyalty-2021",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-19.jpg&signature=d74f53b9a2b511e04c52261bcb648c1f",
+            "publishedAt": "2021-10-04T10:07:33Z",
+            "content": "The ecommerce industry has been growing steadily for many years, but since the pandemic, the quantity of online shopping options has exploded. With brick-and-mortar stores around the world having to … [+5666 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "One Identity has acquired OneLogin, a rival to Okta and Ping in sign-on and identity access management – TechCrunch",
+            "description": "More consolidation is afoot in the world of cybersecurity, specifically around services to help organizations manage identity and access. Today, One Identity — which provides tools for managing “zero trust” access to systems, as well as running log management…",
+            "url": "http://techcrunch.com/2021/10/04/one-identity-has-acquired-onelogin-a-rival-to-okta-and-ping-in-sign-on-and-identity-access-management/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=727",
+            "publishedAt": "2021-10-04T10:04:31Z",
+            "content": "More consolidation is afoot in the world of cybersecurity, specifically around services to help organizations manage identity and access. Today, One Identity — which provides tools for managing “zero… [+5767 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "First drive: The Electrifying GMC Hummer EV – TechCrunch",
+            "description": "The $110,000 GMC Hummer EV is a wild mashup that can keep up with the best off-roader, has the comfort of a luxury sedan and the speed of a sports car. And it has a truck bed. GM calls it a super truck, and I cannot disagree. After driving the Hummer EV at Ge…",
+            "url": "http://techcrunch.com/2021/10/04/first-drive-the-electrifying-gmc-hummer-ev/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/2022-GMC-HUMMER-EV-003.jpg?w=764",
+            "publishedAt": "2021-10-04T10:01:14Z",
+            "content": "The $110,000 GMC Hummer EV is a wild mashup that can keep up with the best off-roader, has the comfort of a luxury sedan and the speed of a sports car. And it has a truck bed. GM calls it a super tru… [+14127 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Five Seasons Ventures pulls in €180M fund to tackle human health and climate via FoodTech – TechCrunch",
+            "description": "FoodTech is booming in Europe and is growing exponentially. In 2020, €3 billion went into European FoodTech companies (State of European Tech Report, March 2021), and the pandemic has accelerated demand as consumers have shifted to grocery delivery. The indus…",
+            "url": "http://techcrunch.com/2021/10/04/five-seasons-ventures-pulls-in-e180m-fund-to-tackle-human-health-and-climate-via-foodtech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/Five-Seasons-Ventures-Team.jpg?w=547",
+            "publishedAt": "2021-10-04T09:55:14Z",
+            "content": "FoodTech is booming in Europe and is growing exponentially. In 2020, 3 billion went into European FoodTech companies (State of European Tech Report, March 2021), and the pandemic has accelerated dema… [+3007 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Five Seasons Ventures pulls in €180M fund to tackle human health and climate via FoodTech",
+            "description": "FoodTech is booming in Europe and is growing exponentially.  In 2020, €3 billion went into European FoodTech companies (State of European Tech Report, March ...",
+            "url": "https://techcrunch.com/2021/10/04/five-seasons-ventures-pulls-in-e180m-fund-to-tackle-human-health-and-climate-via-foodtech/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dfJyBxcOyxXBG81HAAbrIg--~B/aD01ODc7dz04MDI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/017d022544741793186a33e34c9b2a38",
+            "publishedAt": "2021-10-04T09:55:05Z",
+            "content": "FoodTech is booming in Europe and is growing exponentially. In 2020, 3 billion went into European FoodTech companies (State of European Tech Report, March 2021), and the pandemic has accelerated dema… [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian edtech giant Byju's valued at $18 billion in new funding",
+            "description": "Byju’s has raised about $300 million as part of a larger round of new investment as the Indian edtech giant focuses on expanding its international business...",
+            "url": "https://techcrunch.com/2021/10/04/indian-edtech-giant-byjus-valued-at-18-billion-in-new-funding/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tgaRtA5jvXrM6aD1QFMabw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/MhwXfRNJx0KLiCHwvjMOZg--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/95f502805c6e4aa2bfe59c7241576a60",
+            "publishedAt": "2021-10-04T08:54:56Z",
+            "content": "Byjus has raised about $300 million as part of a larger round of new investment as the Indian edtech giant focuses on expanding its international business and aggressively explores merger and acquisi… [+2315 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian edtech giant Byju’s valued at $18 billion in new funding",
+            "description": "Byju’s has raised about $300 million as part of a larger round of new investment as the Indian edtech giant focuses on expanding its international business and aggressively explores merger and acquisition opportunities. A filing, supplied to TechCrunch by res…",
+            "url": "http://techcrunch.com/2021/10/04/indian-edtech-giant-byjus-valued-at-18-billion-in-new-funding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1132893022.jpg?w=600",
+            "publishedAt": "2021-10-04T08:54:56Z",
+            "content": "Byjus has raised about $300 million as part of a larger round of new investment as the Indian edtech giant focuses on expanding its international business and aggressively explores merger and acquisi… [+2315 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ivan Mehta",
+            "title": "Who is Facebook whistleblower Frances Haugen?",
+            "description": "Over the last few weeks, the Wall Street Journal published a series of reports against Facebook, alleging the company allowed the proliferation of hate speech on its platform, and ignored the safety of teens on Instagram. These reports were based on internal …",
+            "url": "https://thenextweb.com/news/facebook-whistleblower-frances-haugen",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Ffrances-haugen.jpg&signature=4336495be82c0b8c037db8481d76f64e",
+            "publishedAt": "2021-10-04T07:33:46Z",
+            "content": "Over the last few weeks, the Wall Street Journal published a series of reports against Facebook, alleging the company allowed the proliferation of hate speech on its platform, and ignored the safety … [+3084 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "B Capital in talks to back Indian neobank Fi",
+            "description": "B Capital Group, which last week co-led Indian social commerce Meesho’s $570 million funding, is in advanced stages of talks to back Bangalore-based neobank Fi (formerly known as epiFi), many aware of the talks told me. Fi offers a neobanking service for mill…",
+            "url": "http://techcrunch.com/2021/10/03/b-capital-in-talks-to-back-indian-neobank-fi/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/fimoney-bcapital-group.jpg?w=764",
+            "publishedAt": "2021-10-04T06:56:43Z",
+            "content": "B Capital Group, which last week co-led Indian social commerce Meesho’s $570 million funding, is in advanced stages of talks to back Bangalore-based neobank Fi (formerly known as epiFi), many aware o… [+570 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "B Capital in talks to back Indian neobank Fi",
+            "description": "B Capital Group, which last week co-led Indian social commerce Meesho's $570 million funding, is in advanced stages of talks to back Bangalore-based neobank ...",
+            "url": "https://techcrunch.com/2021/10/03/b-capital-in-talks-to-back-indian-neobank-fi/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WwTbAoc7zEfdpUbW795Jkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01Nzg-/https://s.yimg.com/uu/api/res/1.2/tBbmtGQZgqczfv.5ST23Rg--~B/aD05NjM7dz0yMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/4ba03861db1071b6178ae35ad0e5b277",
+            "publishedAt": "2021-10-04T06:56:43Z",
+            "content": "B Capital Group, which last week co-led Indian social commerce Meesho's $570 million funding, is in advanced stages of talks to back Bangalore-based neobank Fi (formerly known as epiFi), many aware o… [+570 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Komunidad, a Philippines-based environmental intelligence platform, lands seed round – TechCrunch",
+            "description": "The Philippines is one of the most disaster-prone countries in the world, with geography that makes it vulnerable to typhoons, floods, volcanos, earthquakes and droughts. While working in IT, Felix Ayque began compiling cyclone reports and sending them as ema…",
+            "url": "http://techcrunch.com/2021/10/03/komunidad-a-philippines-based-environmental-intelligence-platform-lands-seed-round/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1220120761.jpg?w=600",
+            "publishedAt": "2021-10-04T05:23:49Z",
+            "content": "The Philippines is one of the most disaster-prone countries in the world, with geography that makes it vulnerable to typhoons, floods, volcanos, earthquakes and droughts. While working in IT, Felix A… [+4358 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Komunidad, a Philippines-based environmental intelligence platform, lands seed round",
+            "description": "The Philippines is one of the most disaster-prone countries in the world, with geography that makes it vulnerable to typhoons, floods, volcanos, earthquakes ...",
+            "url": "https://techcrunch.com/2021/10/03/komunidad-a-philippines-based-environmental-intelligence-platform-lands-seed-round/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dxJOVrEb1tnxM5rknyTKiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/c4tCvdUKoUawj3JJvyU5eg--~B/aD0xNDEzO3c9MjEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/40aa8120fbaa21274bb326dd5a15260c",
+            "publishedAt": "2021-10-04T05:23:44Z",
+            "content": "The Philippines is one of the most disaster-prone countries in the world, with geography that makes it vulnerable to typhoons, floods, volcanos, earthquakes and droughts. While working in IT, Felix A… [+4454 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Howard Pyle",
+            "title": "Design’s dirty secrets and how to address experience bias – TechCrunch",
+            "description": "If the solution to experience bias is variation in front-end design based on the needs of the individual, one way we can radically accelerate that is to understand where automation can be applied.",
+            "url": "http://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297927894.jpg?w=400",
+            "publishedAt": "2021-10-03T17:29:17Z",
+            "content": "I had a conversation recently with a huge technology company, and they wanted to know if their work in human-centered design guards against experience bias. The short answer? Probably not.\r\nWhen we s… [+13627 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Howard Pyle",
+            "title": "Design’s dirty secrets and how to address experience bias",
+            "description": "When we say experience bias, we’re not talking about our own cognitive biases; we’re talking about it at the digital interface layer (design, content, etc.)....",
+            "url": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QZ8LGNMt4RHbSKaIp71ZvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://s.yimg.com/uu/api/res/1.2/ktROUmyoUuYH7s9cgXLDWA--~B/aD02NjE0O3c9NjYxNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/eaa1689e1245508c229ab70ae683898c",
+            "publishedAt": "2021-10-03T17:29:02Z",
+            "content": "I had a conversation recently with a huge technology company, and they wanted to know if their work in human-centered design guards against experience bias. The short answer? Probably not.\r\nWhen we s… [+13628 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Why and when startups should look to diverse sources of capital – TechCrunch",
+            "description": "Venture capital is a popular source of capital for early-stage startups, but it's not the only one. Debt is an increasingly popular alternative, as is non-dilutive, revenue-based financing.",
+            "url": "http://techcrunch.com/2021/10/03/why-and-when-startups-should-look-to-diverse-sources-of-capital/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-86284305.jpg?w=609",
+            "publishedAt": "2021-10-03T14:47:50Z",
+            "content": "Venture capital is a popular source of capital for early-stage startups, but it’s definitely not the only one. Debt is an increasingly popular alternative, as is non-dilutive, revenue-based financing… [+1864 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "AMC theaters will accept cryptocurrencies beyond Bitcoin",
+            "description": "You won't have to stick to Bitcoin if you're determined to pay for your movie ticket with cryptocurrency. AMC chief Adam Aron has revealed his theater chain will also accept Ethereum, Litecoin and Bitcoin Cash when crypto payments are available. He didn't hav…",
+            "url": "https://www.engadget.com/amc-theaters-accept-ethereum-litecoin-bitcoin-cash-132642183.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/4a01cb80-16eb-11ec-abfe-c7b840dd48ca",
+            "publishedAt": "2021-09-16T13:26:42Z",
+            "content": "You won't have to stick to Bitcoin if you're determined to pay for your movie ticket with cryptocurrency. AMC chief Adam Aron has revealed his theater chain will also accept Ethereum, Litecoin and Bi… [+1198 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Karissa Bell",
+            "title": "Twitter will let users send and receive Bitcoin tips",
+            "description": "Four months after Twitter first introduced in-app tipping, the company is expanding its “tip jar” feature in a major way. The company is opening up tipping to all its users globally, and for the first time will allow some users to send and receive tips in Bit…",
+            "url": "https://www.engadget.com/twitter-opens-tipping-in-bitcoin-170017891.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/28751be0-1c8e-11ec-9ffb-353ffababd7e",
+            "publishedAt": "2021-09-23T17:00:17Z",
+            "content": "Four months after Twitter first introduced in-app tipping, the company is expanding its tip jar feature in a major way. The company is opening up tipping to all its users globally, and for the first … [+2390 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Hitting the Books: How Bitcoin is somehow worth more than the paper it's printed on",
+            "description": "Bitcoin and similar blockchain-based cryptos exhibit the same radical divergence from traditional scarcity economics that we first saw when MP3s and Napster cratered physical album sales at the turn of the century. Unlike gold, which derives its value from bo…",
+            "url": "https://www.engadget.com/hitting-the-books-the-future-of-money-eswar-prasad-harvard-university-press-153024975.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/5ea7d740-17ff-11ec-9ffd-ff33ac942d83",
+            "publishedAt": "2021-09-25T15:30:24Z",
+            "content": "Bitcoin and similar blockchain-based cryptos exhibit the same radical divergence from traditional scarcity economics that we first saw when MP3s and Napster cratered physical album sales at the turn … [+8436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Why have Elon Musk and Tesla suddenly turned against bitcoin?",
+            "description": "Elon Musk has performed a sudden U-turn on bitcoin over concerns about its energy usage, and says his electric car firm Tesla will no longer accept the cryptocurrency as payment – but will his decision have an impact, and could Tesla turn to an alternative cu…",
+            "url": "https://techncruncher.blogspot.com/2021/09/why-have-elon-musk-and-tesla-suddenly.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh20SgNNsDlKyWWmB7XgB5SfFY10M6CqJAq93HwGtssTn2cWz6w9zHPjXf91WwoWr27QeaC4HsGv2NxPOXUdvk6xodUojnw8rUuAkEMY3Qb4ucoVpN3nSyF8JW_xVDWa2aSMEWH387hPsfouSJyClLNburIcDbXIeJamuTHwiSvw4hdNnqeeICcvg1wrQ=w1200-h630-p-k-no-nu",
+            "publishedAt": "2021-09-28T20:03:00Z",
+            "content": "Elon Musk has performed a sudden U-turn on bitcoin over concerns about its energy usage, and says his electric car firm Tesla will no longer accept the cryptocurrency as payment – but will his decisi… [+3069 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "El Salvador becomes first country to adopt Bitcoin as an official currency",
+            "description": "Bitcoin is an official currency of El Salvador alongside the US dollar, after it became the first country to adopt the cryptocurrency as legal tender. The country has purchased 400 bitcoins, or around $20.9 million.",
+            "url": "https://www.theverge.com/2021/9/7/22660457/el-salvador-bitcoin-legal-tender-currency-cryptocurrency-chivo-wallet",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Dhfc5cLJNCuuG46W9mwfEt0dmwE=/0x436:3929x2493/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22831008/1234925847.jpg",
+            "publishedAt": "2021-09-07T08:58:53Z",
+            "content": "A recently-installed Bitcoin ATM.\r\n\n \n\n As of today, Bitcoin is an official currency of El Salvador alongside the US dollar, after the Central American country became the first to adopt the cryptocur… [+2716 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "China’s central bank bans cryptocurrency transactions to avoid ‘risks’",
+            "description": "China’s central bank on Friday said cryptocurrency transactions in the country are illegal, banning all transactions. It said cryptocurrencies like bitcoin and Ethereum are not legal tender and can’t be circulated.",
+            "url": "https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mde_l3lUC4muDPEFG7LYrUz0O3g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8921023/acastro_bitcoin_2.jpg",
+            "publishedAt": "2021-09-24T16:22:55Z",
+            "content": "Its the countrys latest crackdown on digital currencies\r\nIllustration by Alex Castro / The Verge\r\nThe Peoples Bank of China, the countrys central bank, said Friday that cryptocurrency transactions ar… [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "El Salvador Buys 400 Bitcoin as Crypto Officially Becomes Currency on Tuesday",
+            "description": "The government of El Salvador purchased at least 200 bitcoin recently, ahead of the country officially recognizing bitcoin as a form of legal currency on Tuesday. The purchase brings the government’s total holdings to at least 400, the equivalent of roughly $…",
+            "url": "https://gizmodo.com/el-salvador-buys-400-bitcoin-as-crypto-officially-becom-1847627336",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/76d032e0fcc21b55eb71174dc0ac74c2.jpg",
+            "publishedAt": "2021-09-07T10:00:00Z",
+            "content": "The government of El Salvador purchased at least 200 bitcoin recently, ahead of the country officially recognizing bitcoin as a form of legal currency on Tuesday. The purchase brings the governments … [+3142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Twitter will allow people to tip their favorite content creators with bitcoin",
+            "description": "Twitter will now allow people to tip their favorite content creators with bitcoin and will also launch a fund to pay some users who host audio chat rooms on its Spaces feature, the company said on Thursday.The company also said it will test new ways to help u…",
+            "url": "https://techncruncher.blogspot.com/2021/09/twitter-will-allow-people-to-tip-their.html",
+            "urlToImage": "https://lh3.googleusercontent.com/proxy/1YJtFF25zSUEDnZG0KffEqRkuld5BSehiyo-0FWiRJNwu6PBJ8Jc8KnXmLXpRfQblZibb-LrRCic9IQeEo1h_fRS2NM=w1200-h630-n-k-no-nu",
+            "publishedAt": "2021-09-24T12:14:00Z",
+            "content": "Twitter will now allow people to tip their favorite content creators with bitcoin and will also launch a fund to pay some users who host audio chat rooms on its Spaces feature, the company said on Th… [+2802 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Bitcoin protests in El Salvador against cryptocurrency as legal tender",
+            "description": "The demonstrators burn Bitcoin machines, a week after the cryptocurrency became legal tender.",
+            "url": "https://www.bbc.co.uk/news/world-latin-america-58579415",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7CA4/production/_120580913_gettyimages-1235276291.jpg",
+            "publishedAt": "2021-09-16T00:55:53Z",
+            "content": "image captionProtesters held signs reading \"no to Bitcoin\"\r\nThousands of protesters have taken to the streets in El Salvador, angry at the introduction of Bitcoin as its legal tender.\r\nPresident Nayi… [+1352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Shoshana Wodinsky",
+            "title": "Bitcoin Bros and Nuclear Bros Have Found Common Cause",
+            "description": "Cryptocurrency mining is a wildly energy-intensive endeavor that doesn’t only pump out more carbon emissions than some small countries, but is quickly racking up a small mountain range’s worth of electronic waste. Read more...",
+            "url": "https://gizmodo.com/bitcoin-bros-and-nuclear-bros-have-found-common-cause-1847753537",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5c22a9aedc33f826f84934ea6a41d67c.jpg",
+            "publishedAt": "2021-09-27T21:40:00Z",
+            "content": "Cryptocurrency mining is awildlyenergy-intensive endeavor that doesnt only pump out more carbon emissions than some small countries, but is quickly racking up a small mountain ranges worth of electro… [+2719 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe",
+            "title": "Bitcoin drops below $43,000 on El Salvador's first day using it",
+            "description": "It's a volatile day for bitcoin, which briefly fell by about 10% Tuesday — below the $43,000 mark.",
+            "url": "https://www.cnn.com/2021/09/07/investing/bitcoin-selloff-crypto-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210219081655-02-bitcoin-file-super-tease.jpg",
+            "publishedAt": "2021-09-07T17:41:32Z",
+            "content": "New York (CNN Business)It's a volatile day for bitcoin, which briefly fell by about 10% Tuesday below the $43,000 mark.\r\nThe drop comes after El Salvador made good on a plan announced in June and ado… [+1279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": null,
+            "description": "PayPal has two decades of experience in online payments and manages 403 million user accounts. So, it caused ripples when it announced on 23 August it would allow UK customers to buy and sell four cryptocurrencies: bitcoin prices rose to a three-month high. B…",
+            "url": "https://techncruncher.blogspot.com/2021/09/paypal-has-two-decades-of-experience-in.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhBa3NzNDTA2Zt8VB-9At9FSPpDIT_DhB17F3Jj5kQB-dYwDGVSL86_0t2nNFHv187uxCQkPt5GHwuiVtCKJKHfqI1RBqHh7to6zn8dmf_WZNlRpQnsvWEzImMQ9mXTisx6U822KEzpAGayi8YoC9Qsaos5pvLzgF_HVSzWBfRDMgFWPnCEBa0GKUM-GA=w1200-h630-p-k-no-nu",
+            "publishedAt": "2021-09-28T20:04:00Z",
+            "content": "PayPal has two decades of experience in online payments and manages 403 million user accounts. So, it caused ripples when it announced on 23 August it would allow UK customers to buy and sell four cr… [+3680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Remy Tumin",
+            "title": "Extreme Weather, Bitcoin, Spring Gardening: Your Weekend Briefing",
+            "description": "Here’s what you need to know about the week’s top stories.",
+            "url": "https://www.nytimes.com/2021/09/05/briefing/extreme-weather-bitcoin-spring-gardening.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/05/multimedia/05weekender-storms-promo/merlin_194189808_c3db593f-b5ff-482a-b95e-082b91849f9c-facebookJumbo.jpg",
+            "publishedAt": "2021-09-05T10:14:50Z",
+            "content": "8. Were just days into September, and its time to start thinking about your spring garden.\r\nRather than following the common practice of planting and transplanting in spring, Rebecca McMackin, the di… [+494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Tesla CEO Elon Musk says U.S. government should avoid regulating crypto",
+            "description": "Tesla CEO Elon Musk on Tuesday said the U.S. government should steer clear of trying to regulate the crypto market.“It is not possible to, I think, destroy crypto, but it is possible for governments to slow down its advancement,” Musk said at the Code Confere…",
+            "url": "https://techncruncher.blogspot.com/2021/09/tesla-ceo-elon-musk-on-tuesday-said-u.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjrlb5X_AFKIugDMdmlPhzACSYxnhwo2YXP8SkWhgJ_JpICMwUEgkH9giAJEaTEnVQUP7TzEC_YITQHtFSM6GEWExkbaPAOKUN2Z1SMgRHXIiBQ-Fv3s_NTaDinlsUEIQN2NdG_cw-iOAMvUEeAUGwgb049yuIBDsigkR4dCWtZkepl9V-6Tg38LRp60A=w1200-h630-p-k-no-nu",
+            "publishedAt": "2021-09-29T13:00:00Z",
+            "content": "Tesla CEO Elon Musk on Tuesday said the U.S. government should steer clear of trying to regulate the crypto market.“It is not possible to, I think, destroy crypto, but it is possible for governments … [+1892 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Wisconsin Badgers to name Camp Randall Stadium's field after former coach, AD Barry Alvarez",
-            "description": "Wisconsin is naming the playing field at Camp Randall Stadium after former Hall of Fame football coach Barry Alvarez.",
-            "url": "http://espn.go.com/college-football/story/_/id/32320439/wisconsin-badgers-name-camp-randall-stadium-field-former-coach-ad-barry-alvarez",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0803%2Fr727076_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-10-02T02:03:33Z",
-            "content": "MADISON, Wis. -- Wisconsin is naming the playing field at Camp Randall Stadium after former Badgers football coach and athletic director Barry Alvarez.\r\nChancellor Rebecca Blank announced the decisio… [+1602 chars]"
+            "title": "Crypto platform Bitso working with El Salvador on Chivo digital wallet - Reuters",
+            "description": "Fintech Bitso, a cryptocurrency platform, said on Tuesday it will be the core service provider for Chivo, the bitcoin digital wallet launched in El Salvador as it becomes the first country in the world to <a href=\"https://www.reuters.com/business/finance/el-s…",
+            "url": "https://www.reuters.com/technology/crypto-platform-bitso-working-with-el-salvador-chivo-digital-wallet-2021-09-07/",
+            "urlToImage": "https://www.reuters.com/resizer/nrP-KTAfCsWqzyMXEkhl8U9ez5o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5TJE4E45K65B22ENEC7NWOEI.jpg",
+            "publishedAt": "2021-09-07T16:38:00Z",
+            "content": "A representation of cryptocurrency Bitcoin is seen in this illustration taken August 6, 2021. REUTERS/Dado Ruvic/Illustration/File Photo/File Photo/File Photo/File PhotoSept 7 (Reuters) - Fintech Bit… [+1978 chars]"
         },
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "ars-technica",
+                "name": "Ars Technica"
             },
-            "author": "FOX Sports",
-            "title": "College Football Week 5: 'Stack The Cash,' win big with FOX Super 6",
-            "description": "Georgia-Arkansas and Alabama-Ole Miss highlight the major matchups in Week 5, and you could win big for free! Here's how.",
-            "url": "http://www.foxsports.com/stories/college-football/college-football-week-5-stack-the-cash-win-big-with-fox-super-6",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/1408/814/10.02.21_CFB-Super-6-week-5-16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2021-10-01T22:55:15Z",
-            "content": "By Kevin CooneySpecial to FOX Sports\r\nA big week of college football matchups should mean a big payoff for the college football fan.\r\nAnd for those who play FOXs Super 6 during our college football S… [+5100 chars]"
+            "author": "Tim De Chant",
+            "title": "Old coal plant is now mining bitcoin for a utility company",
+            "description": "Bitcoin is breathing new life into another ailing power plant.",
+            "url": "https://arstechnica.com/tech-policy/2021/09/old-coal-plant-is-now-mining-bitcoin-for-a-utility-company/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/bitcoin-lightning-760x380.jpg",
+            "publishedAt": "2021-09-24T20:30:09Z",
+            "content": "19 with 16 posters participating\r\nBitcoins massive power consumption is the cryptocurrencys dirty secret. To mine bitcoin, computers across the globe chew through enough electricity to power a medium… [+3500 chars]"
         },
         {
             "source": {
-                "id": "four-four-two",
-                "name": "FourFourTwo"
-            },
-            "author": "PA Staff",
-            "title": "Mikel Arteta determined to get Arsenal back playing European football again",
-            "description": "Mikel Arteta’s family might be happy to see more of him this season, but the Arsenal boss is sick to the stomach of watching European football at home and is determined to get his side back competing there once again.",
-            "url": "https://www.fourfourtwo.com/news/mikel-arteta-determined-to-get-arsenal-back-playing-european-football-again-1633123815000",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bvZ3zu558xDRjEf5Lnbgo6-1200-80.jpg",
-            "publishedAt": "2021-10-01T21:30:15Z",
-            "content": "Mikel Artetas family might be happy to see more of him this season, but the Arsenal boss is sick to the stomach of watching European football at home and is determined to get his side back competing … [+3099 chars]"
-        },
-        {
-            "source": {
-                "id": "news24",
-                "name": "News24"
-            },
-            "author": "Jason Felix",
-            "title": "‘Hang your heads in shame’ - DA tells ANC MPs who refused to hold Zweli Mkhize accountable | News24",
-            "description": "The Digital Vibes scandal has become the latest political football between the ANC and DA in Parliament.",
-            "url": "https://www.news24.com/news24/SouthAfrica/News/hang-your-heads-in-shame-da-tells-anc-mps-who-refused-to-hold-zweli-mkhize-accountable-20211001",
-            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11530/6d2b3e017ca94d02868a8c62a155f50e.jpg",
-            "publishedAt": "2021-10-01T20:11:22+00:00",
-            "content": "<ul><li>The Digital Vibes scandal has become the latest political football between the ANC and DA in Parliament.</li><li>During a health portfolio meeting on Friday, the DA accused the ANC of blockin… [+3501 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Michael F. Florio's 2021 NFL season Week 4 fantasy football matchups",
-            "description": "NFL.com's Michael F. Florio's breaks down the best and toughest fantasy football matchups in Week 4 of the 2021 NFL season.",
-            "url": "https://www.nfl.com/news/michael-f-florio-s-2021-nfl-season-week-4-fantasy-football-matchups",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/acfjwd0zv9woxqyuz0x5",
-            "publishedAt": "2021-10-01T19:22:26.1165546Z",
-            "content": "Three weeks are in the books already. Hopefully those fantasy teams are sitting there with a winning record, but even if not, there is still plenty of time for things to turn around. You cannot contr… [+5153 chars]"
+            "title": "AMC CEO says theaters will accept other cryptocurrencies along with Bitcoin- Tweet - Reuters",
+            "description": "AMC Entertainment <a href=\"https://www.reuters.com/companies/AMC.N\" target=\"_blank\">(AMC.N)</a> CEO Adam Aron said on Wednesday AMC Theatres will accept Bitcoin for online ticket and concession payments, and similarly accept other cryptocurrencies like Ethere…",
+            "url": "https://www.reuters.com/business/amc-ceo-says-theaters-will-accept-other-cryptocurrencies-along-with-bitcoin-2021-09-16/",
+            "urlToImage": "https://www.reuters.com/resizer/Muta2dqDbFvfkI25GuCPOyDugfs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTJXYQEFBZNQZKEMITGI4LWTRM.jpg",
+            "publishedAt": "2021-09-16T02:12:00Z",
+            "content": "A representation of cryptocurrency Bitcoin is seen in this illustration taken August 6, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoSept 15 (Reuters) - AMC Entertainment (AMC.N) CEO Adam Aron sai… [+596 chars]"
         },
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "FOX Sports",
-            "title": "LSU: The best place for college football",
-            "description": "After meeting Mike the Tiger and taking a tour of LSU, Charlotte Wilder says there is no better setting for college football.",
-            "url": "http://www.foxsports.com/stories/college-football/lsu-the-best-place-for-college-football",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/1408/814/09.30.21_Dos-Equis-Ultimate-College-Football-Road-Trip_LSU_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2021-10-01T18:50:37Z",
-            "content": "By Charlotte WilderFOX Sports Columnist\r\nBATON ROUGE, La. According to Dr. David Baker, the head veterinarian at the LSU School of Veterinary Medicine, the tiger is the most depicted animal in the wo… [+7452 chars]"
+            "author": "Reuters Editorial",
+            "title": "El Salvador beach town hopes to ride bitcoin wave - Reuters",
+            "description": "El Zonte, El Salvador, home to 'Bitcoin Beach,' is looking to ride the cryptocurrency wave as bitcoin becomes legal tender in the Central  American country.  Conway G. Gittens reports.",
+            "url": "https://www.reuters.com/video/watch/idRCV00A6OF",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20210907&i=RCV00A6OF&r=RCV00A6OF&t=2",
+            "publishedAt": "2021-09-07T17:58:40Z",
+            "content": "Posted \r\nEl Zonte, El Salvador, home to 'Bitcoin Beach,' is looking to ride the cryptocurrency wave as bitcoin becomes legal tender in the Central American country. Conway G. Gittens reports."
         },
         {
             "source": {
-                "id": "polygon",
-                "name": "Polygon"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Owen S. Good",
-            "title": "Konami’s eFootball a disaster at launch, Steam’s worst-rated game ever",
-            "description": "Players of Konami’s eFootball (the rebranded Pro Evolution Soccer series) found a glitch-filled soccer game for PC at launch, with distorted animations, faces, and buggy gameplay. Konami apologized in a tweet.",
-            "url": "https://www.polygon.com/22704246/konami-efootball-pes-launch-glitches-steam",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BIyLXd8hDGQc6igy7lv6YDbl8SY=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22893704/steamuserimages_a.akamaihd_2.jpg",
-            "publishedAt": "2021-10-01T15:32:36Z",
-            "content": "Well, Pro Evolution Soccers transition to fully free-to-play eFootball is quite the hot mess.\r\nKonamis futbol game launched on Wednesday with player expectations already set into the future, thanks t… [+4082 chars]"
+            "author": "Reuters Editorial",
+            "title": "El Salvador beach town hopes to ride bitcoin wave - Reuters",
+            "description": "El Zonte, El Salvador, home to 'Bitcoin Beach,' is looking to ride the cryptocurrency wave as bitcoin becomes legal tender in the Central  American country.  Conway G. Gittens reports.",
+            "url": "https://www.reuters.com/video/watch/idOVETQ71CB",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20210907&i=OVETQ71CB&r=OVETQ71CB&t=2",
+            "publishedAt": "2021-09-07T17:46:01Z",
+            "content": "Posted \r\nEl Zonte, El Salvador, home to 'Bitcoin Beach,' is looking to ride the cryptocurrency wave as bitcoin becomes legal tender in the Central American country. Conway G. Gittens reports."
         },
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "author": "FOX Sports",
-            "title": "By The Numbers: Four ranked matchups are at the forefront of Saturday's action",
-            "description": "With four ranked matchups set for Saturday, here are the numbers you need to know ahead of Week 5 in college football.",
-            "url": "http://www.foxsports.com/stories/college-football/alabama-crimson-tide-ole-miss-rebels-notre-dame-fighting-irish-georgia-bulldogs-college-football-by-the-numbers",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/1408/814/09.29.21_CFB-By-the-Numbers_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2021-10-01T15:05:50Z",
-            "content": "To say Saturday's slate of college football games is loaded would be an understatement, with four matchups between ranked teams on the docket.\r\nHere are the key stats to know for a number of the marq… [+4005 chars]"
+            "author": "Igor Bonifacic",
+            "title": "Robinhood will start testing crypto wallets next month",
+            "description": "Robinhood plans to start a cryptocurrency wallet next month, the company announced on Wednesday. The tool will allow you to send and receive digital currencies, as well as trade them and move them off the app. If you want to take part in the test, you’ll need…",
+            "url": "https://www.engadget.com/robinhood-cryptocurrency-wallet-test-october-190030675.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/5035fef0-1bd6-11ec-b7e5-a610838e0b98",
+            "publishedAt": "2021-09-22T19:00:30Z",
+            "content": "Robinhood plans to start a cryptocurrency wallet next month, the company announced on Wednesday. The tool will allow you to send and receive digital currencies, as well as trade them and move them of… [+1090 chars]"
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Henry St Leger",
-            "title": "eFootball 2022's failure is FIFA 22's success",
-            "description": "Opinion: Konami's eFootball scores a painful own goal, as FIFA 22 goes strength to strength",
-            "url": "https://www.techradar.com/news/efootball-2022s-failure-is-fifa-22s-success",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VAm4rkJNiKszFFw3Dkcmja-1200-80.jpg",
-            "publishedAt": "2021-10-01T10:00:44Z",
-            "content": "What has happened with Konamis eFootball 2022? The reimagining of the long-running PES (Pro Evolution Soccer) series was meant to herald a new age of sport simulation, rebranding and remaking the ser… [+3071 chars]"
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Monday - CNBC",
+            "description": "U.S. stock futures fell modestly Monday after finishing a rough week with strong rally on the first day of October.",
+            "url": "https://www.cnbc.com/2021/10/04/5-things-to-know-before-the-stock-market-opens-monday-oct-4.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949513-16329294352021-09-29t144826z_478045251_rc2pzp9itiv3_rtrmadp_0_usa-stocks.jpeg?v=1632929562",
+            "publishedAt": "2021-10-04T12:24:43Z",
+            "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Dow futures dropped after starting October with a strong rally\r\nTraders work on the floor of … [+4571 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Matthew BerryESPN Senior Writer ",
-            "title": "Fantasy football: Matthew Berry's Love, Hate and going home again",
-            "description": "Matthew Berry knows just how Tom Brady must feel returning to Foxborough for the first time. OK, not exactly, but he does know what it's like to go home again. That, and the players he loves and hates for Week 4.",
-            "url": "http://espn.go.com/fantasy/football/insider/story/_/id/32306808/fantasy-football-matthew-berry-love-hate-going-home-again",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0929%2Fr916122_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-09-30T17:00:00Z",
-            "content": "The return. The game. Tom Brady vs. Bill Belichick. The most anticipated and searched-for regular-season game of the year, and possibly ever. Much has been written, said, debated, screamed and consid… [+35363 chars]"
+            "author": "John Hanna",
+            "title": "Ex-US Rep. Todd Akin, sunk by 'legitimate rape' remark, dies - Associated Press",
+            "description": "Former U.S. Rep. Todd Akin, a conservative Missouri Republican whose comment that women's bodies have a way of avoiding pregnancies in cases of “legitimate rape” sunk his bid for the U.S.",
+            "url": "https://apnews.com/article/former-rep-todd-akin-dead-0a1b944f96eee4b63d9ea57e04c44ca4",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c32ba75439a84937ae0961e2120ec6e5/3000.jpeg",
+            "publishedAt": "2021-10-04T11:53:13Z",
+            "content": "Former U.S. Rep. Todd Akin, a conservative Missouri Republican whose comment that womens bodies have a way of avoiding pregnancies in cases of legitimate rape sunk his bid for the U.S. Senate and bec… [+4495 chars]"
         },
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "FOX Sports",
-            "title": "College football odds Week 5: Why you should bet on Cincinnati against Notre Dame, and more",
-            "description": "Jason McIntyre is betting on Cincinnati in its big test against Notre Dame, and analyzing Week 5's other marquee matchups.",
-            "url": "http://www.foxsports.com/stories/college-football/college-football-odds-week-5-why-you-should-bet-on-cincinnati-against-notre-dame-and-more",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/09/1408/814/09.29.21_Jason-McIntyres-CFB-Picks_Week-5_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2021-09-30T15:51:45Z",
-            "content": "By Jason McIntyreFOX Sports Betting Analyst\r\nWe're a month into the college football season and three of the four games highlighted in this space feature teams going on the road for the first time: M… [+7258 chars]"
-        },
-        {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
-            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
-            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
-            "publishedAt": "2020-04-27T07:20:43Z",
-            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+            "title": "Nurse assistant shot and killed in Philadelphia hospital, allegedly by heavily armed fellow nursing assistant wearing scrubs - CBS News",
+            "description": "The victim was a 43-year-old male nurse. The suspect fled but got involved in a shootout with police and was wounded, along with two officers.",
+            "url": "https://www.cbsnews.com/news/philadelphia-shooting-hospital-nurse-assistant-killed/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/04/1205edb0-94a2-4183-8ea3-486ecf2460bf/thumbnail/1200x630/a3c000a21418bbf4a24d4fd359671861/jefferson-hospital-philadelphia-after-fatal-shooting-of-nurse-early-on-100421.jpg",
+            "publishedAt": "2021-10-04T11:28:43Z",
+            "content": "Philadelphia — A nurse assistant was shot and killed inside Jefferson Hospital in Center City early Monday morning, CBS Philly reports. Police say the suspect, a 55-year-old heavily armed man wearing… [+2100 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joe Sutton and Susannah Cullinane, CNN",
+            "title": "Orange County beaches closed after oil spill off California coast destroys wildlife habitat - CNN",
+            "description": "Portions of popular beaches across a swath of Southern California have been closed after a pipeline breach sent thousands of gallons of oil into the Pacific Ocean and dead wildlife began washing ashore.",
+            "url": "https://www.cnn.com/2021/10/04/us/california-oil-spill-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211003224648-13-california-oil-spill-1003-super-tease.jpg",
+            "publishedAt": "2021-10-04T11:27:00Z",
+            "content": "(CNN)Portions of popular beaches across a swath of Southern California have been closed after a pipeline breach sent thousands of gallons of oil into the Pacific Ocean and dead wildlife began washing… [+5154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
+            },
+            "author": "Priya Mann, Natasha Dado",
+            "title": "CDC releases new guidance on staying safe during holiday season as COVID cases increase - WDIV ClickOnDetroit",
+            "description": "Last week the Centers for Disease Control and Prevention released guidance on trick-or-treating. Now looking ahead to Thanksgiving and the holiday season the agency has issued new guidance.",
+            "url": "https://www.clickondetroit.com/news/local/2021/10/04/cdc-releases-new-guidance-on-staying-safe-during-holiday-season-as-covid-cases-increase/",
+            "urlToImage": "https://www.clickondetroit.com/resizer/mftGs7Yx8NzpReb95mKzL5dDCG0=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/10-04-2021/t_b7713c54b48b4b95a57e8d6cc4bd17a7_name_image.jpg",
+            "publishedAt": "2021-10-04T11:17:07Z",
+            "content": "DETROIT Last week the Centers for Disease Control and Prevention released guidance on trick-or-treating. \r\nNow looking ahead to Thanksgiving and the holiday season the agency has issued new guidance.… [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jaclyn Diaz",
+            "title": "A new Facebook whistleblower is renewing scrutiny of the social media giant - NPR",
+            "description": "Facebook could be facing its biggest scandal yet as a former employee comes forward to expose some of the company's secrets.",
+            "url": "https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/03/ap21277006862704_wide-9dc90aeba6346dd608af64b20719a5d2ac8f8051.jpg?s=1400",
+            "publishedAt": "2021-10-04T11:09:00Z",
+            "content": "Facebook whistleblower Frances Haugen talks with CBS' Scott Pelley on a 60 Minutes episode that aired Sunday.\r\nRobert Fortunato/CBS News via AP\r\nA data scientist named Frances Haugen has revealed her… [+6541 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen, CNN Senior Medical Correspondent",
+            "title": "Full FDA approval of Pfizer's Covid-19 vaccine had only a modest impact on uptake. Here's what mattered more - CNN",
+            "description": "Despite hopes that full approval of Pfizer's Covid-19 vaccine would convince large numbers of vaccine-hesitant Americans to roll up their sleeves, a federal government analysis provided to CNN suggests approval was not a silver bullet.",
+            "url": "https://www.cnn.com/2021/10/04/health/pfizer-covid-19-vaccine-approval-bump/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210927051442-pfizer-vaccine-covid-19-california-052121-file-super-tease.jpg",
+            "publishedAt": "2021-10-04T11:04:00Z",
+            "content": "(CNN)Despite hopes that full approval of Pfizer's Covid-19 vaccine would convince large numbers of vaccine-hesitant Americans to roll up their sleeves, a federal government analysis provided to CNN s… [+5342 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Siri’s 10-year anniversary is a reminder of Apple’s wasted head start - The Verge",
+            "description": "Ten years ago, Apple launched its digital assistant Siri with the iPhone 4s. As the first major voice interface for consumers, it was a huge hit. But over the years, Siri has fallen behind rivals like Google Assistant and Amazon’s Alexa. After Apple’s head st…",
+            "url": "https://www.theverge.com/22704233/siri-apple-digital-assistant-10-years-development-problems-why",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/j10Ok-Bj8C7C-Y3f_jQB0LxzAqY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22894848/acastro_211001_1777_0001.jpg",
+            "publishedAt": "2021-10-04T11:00:00Z",
+            "content": "Ten years ago today, Apples digital assistant Siri was revealed with the promise that the iPhone maker had finally figured it all out. \r\nFor decades, technologists have teased us with this dream that… [+15623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Ron Dicker",
+            "title": "Bill Belichick's Oral Hygiene Fumble During Buccaneers-Patriots Game Disgusts Fans - HuffPost",
+            "description": "The Patriots coach lost to his old quarterback Tom Brady and tried to win a battle with his teeth.",
+            "url": "https://www.huffpost.com/entry/bill-belichick-pencil-toothpick_n_615ac400e4b099230d255220",
+            "urlToImage": "https://img.huffingtonpost.com/asset/615ac5b5280000311ca728c7.jpeg?ops=1778_1000",
+            "publishedAt": "2021-10-04T10:58:00Z",
+            "content": "New England Patriots coach Bill Belichick got caught on camera using a pencil as a toothpick, then eyeing his handiwork, during Sundays prime time game with the Tampa Bay Buccaneers.\r\nGot it all, Coa… [+953 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Swedish artist Lars Vilks, who stirred worldwide controversy in 2007 with drawings of the Prophet Mohammad, was killed in a car crash, police said. - NBC News",
+            "description": "Swedish artist Lars Vilks, who stirred worldwide controversy in 2007 with drawings depicting the Prophet Mohammad with the body of a dog, was killed in a car",
+            "url": "https://www.nbcnews.com/news/world/swedish-artist-lars-vilks-stirred-worldwide-controversy-2007-drawings-rcna2542",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-10/211004-lars-vilks-mb-1138-b80bb5.jpg",
+            "publishedAt": "2021-10-04T10:55:55Z",
+            "content": "STOCKHOLM Swedish artist Lars Vilks, who stirred worldwide controversy in 2007 with drawings depicting the Prophet Mohammad with the body of a dog, was killed in a car crash near the southern town of… [+1384 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Michael Scherer, Josh Dawsey",
+            "title": "Trump behaves like a presidential candidate, even as he puts off an official announcement. - The Washington Post",
+            "description": "The former president’s advisers fear an early announcement would complicate his fundraising and other activities, but Trump is taking steps toward a formal entry.",
+            "url": "https://www.washingtonpost.com/politics/trump-2024-campaign-candidacy/2021/10/03/73af3b12-21f8-11ec-b3d6-8cdebe60d3e2_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VEPQUA6NUI6ZPVIGCHKCNCZJ4.jpg&w=1440",
+            "publishedAt": "2021-10-04T10:02:01Z",
+            "content": "Some of his advisers were concerned that Democrats might use his announcement in their effortto frame the midterm elections around his candidacy, potentially boosting their own turnout and hampering … [+10245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Natasha Frost",
+            "title": "Battling Delta, New Zealand Abandons Its Zero-Covid Ambitions - The New York Times",
+            "description": "The country is changing course seven weeks into a lockdown that has failed to end the outbreak and tested the patience of many residents.",
+            "url": "https://www.nytimes.com/2021/10/04/world/australia/new-zealand-covid-zero.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/04/world/04virus-newzealand1/04virus-newzealand1-facebookJumbo.jpg",
+            "publishedAt": "2021-10-04T09:51:55Z",
+            "content": "AUCKLAND, New Zealand For a year and a half, New Zealand has pursued a strategy of Covid zero, closing its borders and quickly enforcing lockdowns to keep the coronavirus in check, a policy it mainta… [+841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz"
+            },
+            "author": "Haaretz",
+            "title": "'Pandora Papers': Jordan's king says luxury homes were kept hidden for security reasons - Haaretz",
+            "description": "***",
+            "url": "https://www.haaretz.com/middle-east-news/jordan/pandora-papers-jordan-s-king-says-luxury-homes-were-kpet-hidden-due-to-security-1.10264698",
+            "urlToImage": "https://www.haaretz.com/polopoly_fs/1.10264846.1633341161!/image/3612372912.jpg_gen/derivatives/headline_1200x630/3612372912.jpg",
+            "publishedAt": "2021-10-04T09:42:00Z",
+            "content": "Jordan's King Abdullah II said the claims made against him in media reports on the \"Pandora Papers\" – a leak of nearly 12 million files obtained from 14 offshore companies around the world released o… [+4277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Marc Santora, Cora Engelbrecht",
+            "title": "Nobel Prize in Medicine Awarded to David Julius and Ardem Patapoutian - The New York Times",
+            "description": "David Julius and Ardem Patapoutian were honored for their discoveries about how heat, cold and touch can initiate signals in the nervous system.",
+            "url": "https://www.nytimes.com/2021/10/04/health/nobel-prize-medicine-physiology-temperature-touch.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/04/world/04nobel-01/04nobel-01-facebookJumbo.jpg",
+            "publishedAt": "2021-10-04T09:39:20Z",
+            "content": "In the 17th century, the philosopher René Descartes envisioned threads connecting different parts of the skin with the brain. In that way, when a flame touches the foot, a signal is sent to the brain… [+1545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kimberly Nordyke",
+            "title": "Damian Lewis Exits 'Billions' After 5 Seasons – The Hollywood Reporter - Hollywood Reporter",
+            "description": "Damian Lewis is exiting Billions after five seasons. Lewis played Bobby Axelrod, aka Axe, on the Showtime series, which aired its season five finale Sunday night. Showtime also said that season six will premiere Jan. 23 and released a trailer (watch it below)…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/damian-lewis-exits-billions-season-five-1235024755/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2017/03/billions_206_834.r.jpg?w=1024",
+            "publishedAt": "2021-10-04T09:33:45Z",
+            "content": "Damian Lewis is exiting Billions after five seasons.\r\nLewis played Bobby Axelrod, aka Axe, on the Showtime series, which aired its season five finale Sunday night.\r\nShowtime also said that season six… [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Photogallery Team",
+            "title": "These party pictures of Aryan Khan with BFFs trend after his arrest in a drug case - Times of India",
+            "description": "These party pictures of Aryan Khan with BFFs trend after his arrest in a drug case Photos: Find out the latest pictures, still from movies, of These party pictures of Aryan Khan with BFFs trend after his arrest in a drug case on ETimes Photogallery. Including…",
+            "url": "https://photogallery.indiatimes.com/celebs/celeb-themes/these-party-pictures-of-aryan-khan-with-bffs-trend-after-his-arrest-in-a-drug-case/articleshow/86751202.cms",
+            "urlToImage": "https://static.toiimg.com/photo/86751743.cms",
+            "publishedAt": "2021-10-04T09:24:22Z",
+            "content": "Superstar SRKs son Aryan Khan has been making headlines after he was arrested by the Narcotics Control Bureau in connection with the Mumbai cruise party raid. Few throwback pictures of Aryan partying… [+1375 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Pete Williams",
+            "title": "Abortion, guns top agenda for new Supreme Court term - NBC News",
+            "description": "The Supreme Court could deliver rulings on abortion, carrying guns outside the home, public funding for religious education and race in college admissions.",
+            "url": "https://www.nbcnews.com/politics/supreme-court/abortion-guns-top-agenda-new-supreme-court-term-n1280550",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_39/3509535/210930-supreme-court-preview-se-427p.jpg",
+            "publishedAt": "2021-10-04T09:23:29Z",
+            "content": "WASHINGTON The Supreme Court is gearing up for a blockbuster term beginning Monday that is likely to produce the most important ruling on abortion in 30 years and a long-awaited decision on the issue… [+6590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pitchfork"
+            },
+            "author": "Jazz Monroe",
+            "title": "Billie Eilish to Headline Glastonbury 2022 - Pitchfork",
+            "description": "She’ll be the legendary UK festival’s youngest ever solo headliner",
+            "url": "https://pitchfork.com/news/billie-eilish-to-headline-glastonbury-2022/",
+            "urlToImage": "https://media.pitchfork.com/photos/615ac55896c8ccdb77871390/16:9/w_1280,c_limit/billie%2520eilish%2520glastonbury%25202022.jpg",
+            "publishedAt": "2021-10-04T09:14:39Z",
+            "content": "Billie Eilish will become the youngest ever solo headliner of Glastonbury festival with a Friday night set at the Pyramid Stage in 2022. She is the first headliner to be confirmed for next years fest… [+1051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "9 are dead after farmers protest in India escalates - NPR",
+            "description": "Four farmers died Sunday when a car owned by Junior Home Minister Ajay Mishra ran over protesting farmers in the Uttar Pradesh town of Lakhimpur Kheri, officials and farm leaders said.",
+            "url": "https://www.npr.org/2021/10/04/1042972083/a-farmer-protest-in-india-turns-deadly-leaving-9-dead-and-a-town-on-edge",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/04/ap21277294744070_wide-cf0b5dcbddfdd3c07505a2421f9ad38fac0df3bb.jpg?s=1400",
+            "publishedAt": "2021-10-04T09:01:30Z",
+            "content": "Indian farmers protesting against Sunday's killing of four farmers in Uttar Pradesh state after being run over by a car owned by India's junior Home Minister Ajay Mishra.\r\nMahesh Kumar A/AP\r\nLUCKNOW,… [+3189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Abigail Ng",
+            "title": "U.S. trade representative Tai vows to enforce 'phase 1' trade deal with China - CNBC",
+            "description": "Washington must enforce phase one trade deal with China, and will raise broader policy concerns with Beijing, USTR Katherine Tai is expected to say on Monday.",
+            "url": "https://www.cnbc.com/2021/10/04/us-china-trade-ustr-katherine-tai-vows-to-enforce-phase-1-deal.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106951411-1633338658847-gettyimages-1232844770-AFP_99U86D.jpeg?v=1633338749",
+            "publishedAt": "2021-10-04T09:00:18Z",
+            "content": "Washington must enforce the U.S.-China phase one trade agreement and will raise broader policy concerns with Beijing, U.S. Trade Representative Katherine Tai will say on Monday, according to her pres… [+2728 chars]"
         }
     ]
 }
